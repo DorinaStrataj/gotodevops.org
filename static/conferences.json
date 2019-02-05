@@ -1168,5 +1168,23 @@
       "fahrenheit": 57
     },
     "cost": "unknown"
-  }
+  },
+  {
+    "name": "DevOpsDays Copenhagen",
+    "url": "https://www.devopsdays.org/events/2019-copenhagen/welcome/",
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-04-03T00:00:00.000Z",
+      "end": "2019-04-04T00:00:00.000Z"
+    },
+    "temperature": {
+      "celsius": 8,
+      "fahrenheit": 47
+    },
+    "cost": 1
+  },
 ]
