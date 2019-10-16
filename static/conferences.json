@@ -1906,5 +1906,23 @@
       "fahrenheit": 69
     },
     "cost": 2
+  },
+  {
+    "name": "CoDe-Conf 2019",
+    "url": "https://www.code-conf.com/2019/code-conf/",
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "continent": "Europe"
+    },
+    "date": {
+      "start": "2019-10-28T00:00:00.000Z",
+      "end": "2019-10-28T00:00:00.000Z"
+    },
+    "temperature": {
+      "celsius": 12,
+      "fahrenheit": 54
+    },
+    "cost": 2
   }
 ]
